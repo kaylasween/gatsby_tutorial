@@ -7,6 +7,6 @@ export default () => (
     <Header headerText="Hello Gatsby!" />
     <Link to="/contact/">Contact</Link>
     <p>My first Gatsby page.</p>
-    <img src="https://source.unsplash.com/random/400x200" alt="" />
+    <img src="https://source.unsplash.com/random/400x200" alt="random image" />
   </div>
 )
